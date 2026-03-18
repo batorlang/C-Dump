@@ -1,0 +1,2 @@
+Yinuo,21,Male
+Aino,42,Female
