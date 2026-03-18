@@ -30,7 +30,7 @@ I have approached learning C systematically, documenting my progress week by wee
 
 ---
 
-## 🏗️ Technical Highlights
+## 💻 Technical Highlights
 
 ### 🔹 Data Structures
 I have moved beyond basic arrays to implement dynamic structures from scratch, focusing on efficient data manipulation:
