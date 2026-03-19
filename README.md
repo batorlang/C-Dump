@@ -26,7 +26,7 @@ I have approached learning C systematically, documenting my progress week by wee
 | **Week 8** | Development tools I (Valgrind & Static library) |
 | **Week 9** | Development tools II (Makefile, make) |
 | **Week 10** | Advanced pointer topics |
-| **Project** | Doubly Linked List Management System |
+| **Project** | Doubly Linked List Management System & Binary Search Tree |
 
 ---
 
@@ -37,6 +37,7 @@ I have moved beyond basic arrays to implement dynamic structures from scratch, f
 * **Singly Linked Lists:** Implementation of nodes, traversal, and dynamic insertion/deletion.
 * **Doubly Linked Lists:** Bi-directional traversal and complex node re-linking.
 * **Queues (FIFO):** Implementation using both array-based and linked-list-based approaches.
+* ** Binary Search Tree:** Implementation of using Binary Search Tree and how to operate and navigate in them.
 
 ### 💾 Memory Management
 A core part of this journey has been mastering manual memory control:
