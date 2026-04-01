@@ -14,8 +14,8 @@ A chronological journey through the **C Programming Language**. This repository 
 I have approached learning C systematically, documenting my progress week by week. Each folder in this repository represents a milestone in my understanding of procedural programming and low-level system interaction.
 
 ### 🗓️ Weekly Learning Path
-| Week | Focus Area | Key Concepts |
-| :--- | :--- | :--- |
+| Week | Focus Area |
+| :--- | :--- |
 | **Week 1** | Data and the memory |
 | **Week 2** | Handling data and I/O in C |
 | **Week 3** | Structure and Control Flow |
@@ -26,6 +26,9 @@ I have approached learning C systematically, documenting my progress week by wee
 | **Week 8** | Development tools I (Valgrind & Static library) |
 | **Week 9** | Development tools II (Makefile, make) |
 | **Week 10** | Advanced pointer topics |
+| **Week 11** | Exploring C headerfiles |
+| **Week 12** | Working with binary data |
+| **Week 13** | N/A |
 | **Project** | Doubly Linked List Management System & Binary Search Tree |
 
 ---
