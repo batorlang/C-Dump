@@ -26,7 +26,9 @@ I have approached learning C systematically, documenting my progress week by wee
 | **Week 8** | Development tools I (Valgrind & Static library) |
 | **Week 9** | Development tools II (Makefile, make) |
 | **Week 10** | Advanced pointer topics |
-| **Week 10** | More on C header files |
+| **Week 11** | Exploring C headerfiles |
+| **Week 12** | Working with binary data |
+| **Week 13** | N/A |
 | **Project** | Doubly Linked List Management System & Binary Search Tree |
 
 ---
